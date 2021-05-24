@@ -1,0 +1,1248 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+                              d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+                              d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o) (_global_impure_ptr)
+d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+                              d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-memcpy.o)
+                              ./freertos/Source/queue.o (memcpy)
+d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+                              d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+                              d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o) (__call_exitprocs)
+d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-atexit.o)
+                              d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o) (atexit)
+d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-fini.o)
+                              d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+                              d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__atexit.o)
+                              d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+SystemCoreClock     0x4               ./src/main.o
+xQueueRegistry      0x50              ./freertos/Source/queue.o
+__lock___env_recursive_mutex
+                    0x1               d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+sysTickCounter      0x4               ./src/main.o
+core_clock_hz       0x4               ./src/main.o
+__lock___at_quick_exit_mutex
+                    0x1               d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+ .text          0x00000000       0x40 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .data          0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss           0x00000000       0x1c d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .init_array    0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .fini_array    0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .eh_frame      0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x34 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00000000       0x7c d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x00000000       0x10 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .group         0x00000000        0xc ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .text.led2_task
+                0x00000000       0x40 ./src/main.o
+ .text          0x00000000       0x14 ./src/startup_stm32f303retx.o
+ .data          0x00000000        0x0 ./src/startup_stm32f303retx.o
+ .bss           0x00000000        0x0 ./src/startup_stm32f303retx.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/MemMang/heap_4.o
+ .text          0x00000000        0x0 ./freertos/Source/portable/MemMang/heap_4.o
+ .data          0x00000000        0x0 ./freertos/Source/portable/MemMang/heap_4.o
+ .bss           0x00000000        0x0 ./freertos/Source/portable/MemMang/heap_4.o
+ .rodata.xHeapStructSize
+                0x00000000        0x4 ./freertos/Source/portable/MemMang/heap_4.o
+ .text.xPortGetFreeHeapSize
+                0x00000000       0x18 ./freertos/Source/portable/MemMang/heap_4.o
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x00000000       0x18 ./freertos/Source/portable/MemMang/heap_4.o
+ .text.vPortInitialiseBlocks
+                0x00000000        0xe ./freertos/Source/portable/MemMang/heap_4.o
+ .text.vPortGetHeapStats
+                0x00000000       0xbc ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0xa8a ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x22 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x103 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x6a ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x1df ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x190 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x15a ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0xc8 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x1c ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x26 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x3ca ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0xb5 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x120 ./freertos/Source/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .text          0x00000000        0x0 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .data          0x00000000        0x0 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .bss           0x00000000        0x0 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .text.SVC_handler
+                0x00000000       0x28 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .text.vPortEndScheduler
+                0x00000000        0xe ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .text.pending_SV_handler
+                0x00000000       0x68 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .text.SysTick_handler
+                0x00000000       0x44 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000      0xa8a ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000      0x16d ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0x22 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0x56 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0x51 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000      0x103 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0x6a ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000      0x1df ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000      0x190 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000      0x15a ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0xc8 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0x1c ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0x26 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000      0x3ca ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0xb5 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000      0x120 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text          0x00000000        0x0 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .data          0x00000000        0x0 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .bss           0x00000000        0x0 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.xPortRaisePrivilege
+                0x00000000       0x20 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.vPortResetPrivilege
+                0x00000000       0x1a ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xTaskCreate
+                0x00000000       0x3c ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_vTaskDelay
+                0x00000000       0x22 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_vTaskSuspendAll
+                0x00000000       0x1e ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xTaskResumeAll
+                0x00000000       0x22 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xTaskGetTickCount
+                0x00000000       0x22 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_uxTaskGetNumberOfTasks
+                0x00000000       0x22 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_pcTaskGetName
+                0x00000000       0x26 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_vTaskSetThreadLocalStoragePointer
+                0x00000000       0x2a ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_pvTaskGetThreadLocalStoragePointer
+                0x00000000       0x2a ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xTaskCatchUpTicks
+                0x00000000       0x26 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_vTaskSetTimeOutState
+                0x00000000       0x22 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xTaskCheckForTimeOut
+                0x00000000       0x2a ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xQueueGenericCreate
+                0x00000000       0x32 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xQueueGenericReset
+                0x00000000       0x2a ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xQueueGenericSend
+                0x00000000       0x32 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_uxQueueMessagesWaiting
+                0x00000000       0x26 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_uxQueueSpacesAvailable
+                0x00000000       0x26 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xQueueReceive
+                0x00000000       0x2e ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xQueuePeek
+                0x00000000       0x2e ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xQueueSemaphoreTake
+                0x00000000       0x2a ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_vQueueAddToRegistry
+                0x00000000       0x26 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_vQueueUnregisterQueue
+                0x00000000       0x22 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_pcQueueGetName
+                0x00000000       0x26 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_vQueueDelete
+                0x00000000       0x22 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_vPortInitialiseBlocks
+                0x00000000       0x1e ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xPortGetFreeHeapSize
+                0x00000000       0x22 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xEventGroupCreate
+                0x00000000       0x22 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xEventGroupWaitBits
+                0x00000000       0x36 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xEventGroupClearBits
+                0x00000000       0x2a ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xEventGroupSetBits
+                0x00000000       0x2a ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xEventGroupSync
+                0x00000000       0x32 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_vEventGroupDelete
+                0x00000000       0x22 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xStreamBufferSend
+                0x00000000       0x32 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xStreamBufferNextMessageLengthBytes
+                0x00000000       0x26 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xStreamBufferReceive
+                0x00000000       0x32 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_vStreamBufferDelete
+                0x00000000       0x22 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xStreamBufferIsFull
+                0x00000000       0x26 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xStreamBufferIsEmpty
+                0x00000000       0x26 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xStreamBufferReset
+                0x00000000       0x26 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xStreamBufferSpacesAvailable
+                0x00000000       0x26 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xStreamBufferBytesAvailable
+                0x00000000       0x26 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xStreamBufferSetTriggerLevel
+                0x00000000       0x2a ./freertos/Source/portable/Common/mpu_wrappers.o
+ .text.MPU_xStreamBufferGenericCreate
+                0x00000000       0x2e ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_info    0x00000000     0x107a ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_abbrev  0x00000000      0x19d ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_aranges
+                0x00000000      0x180 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_ranges  0x00000000      0x170 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000      0x11e ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000      0xa8a ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000      0x16d ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000       0x22 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000       0x56 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000       0x51 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000      0x103 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000       0x6a ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000      0x1df ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000      0x190 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000      0x15a ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000       0xc8 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000       0x1c ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000       0x26 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000      0x3ca ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000       0xb5 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000      0x120 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000       0x80 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000       0x97 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000       0x19 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_macro   0x00000000       0x18 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_line    0x00000000      0x9d1 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_str     0x00000000     0xa016 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .comment       0x00000000       0x4d ./freertos/Source/portable/Common/mpu_wrappers.o
+ .debug_frame   0x00000000      0x664 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .ARM.attributes
+                0x00000000       0x34 ./freertos/Source/portable/Common/mpu_wrappers.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/list.o
+ .text          0x00000000        0x0 ./freertos/Source/list.o
+ .data          0x00000000        0x0 ./freertos/Source/list.o
+ .bss           0x00000000        0x0 ./freertos/Source/list.o
+ .debug_macro   0x00000000      0xa8a ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x18 ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x22 ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x5e ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x5c ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x35 ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x34 ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x16 ./freertos/Source/list.o
+ .debug_macro   0x00000000      0x10e ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x86 ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x16 ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x43 ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x57 ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x34 ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x10 ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x58 ./freertos/Source/list.o
+ .debug_macro   0x00000000      0x182 ./freertos/Source/list.o
+ .debug_macro   0x00000000      0x35c ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x22 ./freertos/Source/list.o
+ .debug_macro   0x00000000      0x103 ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x6a ./freertos/Source/list.o
+ .debug_macro   0x00000000      0x1df ./freertos/Source/list.o
+ .debug_macro   0x00000000      0x190 ./freertos/Source/list.o
+ .debug_macro   0x00000000      0x15a ./freertos/Source/list.o
+ .debug_macro   0x00000000       0xc8 ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x1c ./freertos/Source/list.o
+ .debug_macro   0x00000000       0x26 ./freertos/Source/list.o
+ .debug_macro   0x00000000      0x3ca ./freertos/Source/list.o
+ .debug_macro   0x00000000       0xb5 ./freertos/Source/list.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/queue.o
+ .text          0x00000000        0x0 ./freertos/Source/queue.o
+ .data          0x00000000        0x0 ./freertos/Source/queue.o
+ .bss           0x00000000        0x0 ./freertos/Source/queue.o
+ .text.xQueueGenericReset
+                0x00000000       0xb4 ./freertos/Source/queue.o
+ .text.xQueueGenericCreate
+                0x00000000       0x50 ./freertos/Source/queue.o
+ .text.prvInitialiseNewQueue
+                0x00000000       0x3e ./freertos/Source/queue.o
+ .text.xQueueGenericSend
+                0x00000000      0x154 ./freertos/Source/queue.o
+ .text.xQueueGenericSendFromISR
+                0x00000000       0xba ./freertos/Source/queue.o
+ .text.xQueueGiveFromISR
+                0x00000000       0xa8 ./freertos/Source/queue.o
+ .text.xQueueReceive
+                0x00000000      0x144 ./freertos/Source/queue.o
+ .text.xQueueSemaphoreTake
+                0x00000000      0x13c ./freertos/Source/queue.o
+ .text.xQueuePeek
+                0x00000000      0x148 ./freertos/Source/queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000       0xae ./freertos/Source/queue.o
+ .text.xQueuePeekFromISR
+                0x00000000       0x66 ./freertos/Source/queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x20 ./freertos/Source/queue.o
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x2a ./freertos/Source/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x20 ./freertos/Source/queue.o
+ .text.vQueueDelete
+                0x00000000       0x20 ./freertos/Source/queue.o
+ .text.prvCopyDataToQueue
+                0x00000000       0xb8 ./freertos/Source/queue.o
+ .text.prvCopyDataFromQueue
+                0x00000000       0x4c ./freertos/Source/queue.o
+ .text.prvUnlockQueue
+                0x00000000       0xa4 ./freertos/Source/queue.o
+ .text.prvIsQueueEmpty
+                0x00000000       0x2c ./freertos/Source/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x2c ./freertos/Source/queue.o
+ .text.prvIsQueueFull
+                0x00000000       0x30 ./freertos/Source/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x30 ./freertos/Source/queue.o
+ .text.vQueueAddToRegistry
+                0x00000000       0x54 ./freertos/Source/queue.o
+ .text.pcQueueGetName
+                0x00000000       0x4c ./freertos/Source/queue.o
+ .text.vQueueUnregisterQueue
+                0x00000000       0x54 ./freertos/Source/queue.o
+ .debug_info    0x00000000     0x180e ./freertos/Source/queue.o
+ .debug_abbrev  0x00000000      0x32f ./freertos/Source/queue.o
+ .debug_aranges
+                0x00000000       0xe0 ./freertos/Source/queue.o
+ .debug_ranges  0x00000000       0xd0 ./freertos/Source/queue.o
+ .debug_macro   0x00000000      0x1eb ./freertos/Source/queue.o
+ .debug_macro   0x00000000      0xa8a ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x18 ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x22 ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x5e ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x5c ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x35 ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x34 ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x16 ./freertos/Source/queue.o
+ .debug_macro   0x00000000      0x10e ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x86 ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x16 ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x43 ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x57 ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x34 ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x10 ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x58 ./freertos/Source/queue.o
+ .debug_macro   0x00000000      0x182 ./freertos/Source/queue.o
+ .debug_macro   0x00000000      0x35c ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x22 ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x16 ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x35 ./freertos/Source/queue.o
+ .debug_macro   0x00000000      0x103 ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x6a ./freertos/Source/queue.o
+ .debug_macro   0x00000000      0x1df ./freertos/Source/queue.o
+ .debug_macro   0x00000000      0x190 ./freertos/Source/queue.o
+ .debug_macro   0x00000000      0x15a ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0xc8 ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x1c ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x26 ./freertos/Source/queue.o
+ .debug_macro   0x00000000      0x3ca ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0xb5 ./freertos/Source/queue.o
+ .debug_macro   0x00000000      0x120 ./freertos/Source/queue.o
+ .debug_macro   0x00000000       0x80 ./freertos/Source/queue.o
+ .debug_line    0x00000000      0xd0b ./freertos/Source/queue.o
+ .debug_str     0x00000000     0xc28f ./freertos/Source/queue.o
+ .comment       0x00000000       0x4d ./freertos/Source/queue.o
+ .debug_frame   0x00000000      0x3ac ./freertos/Source/queue.o
+ .ARM.attributes
+                0x00000000       0x34 ./freertos/Source/queue.o
+ COMMON         0x00000000       0x50 ./freertos/Source/queue.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .group         0x00000000        0xc ./freertos/Source/tasks.o
+ .text          0x00000000        0x0 ./freertos/Source/tasks.o
+ .data          0x00000000        0x0 ./freertos/Source/tasks.o
+ .bss           0x00000000        0x0 ./freertos/Source/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000       0x30 ./freertos/Source/tasks.o
+ .text.xTaskGetTickCount
+                0x00000000       0x20 ./freertos/Source/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x24 ./freertos/Source/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x00000000       0x18 ./freertos/Source/tasks.o
+ .text.pcTaskGetName
+                0x00000000       0x2c ./freertos/Source/tasks.o
+ .text.xTaskCatchUpTicks
+                0x00000000       0x2c ./freertos/Source/tasks.o
+ .text.vTaskPlaceOnEventList
+                0x00000000       0x2c ./freertos/Source/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0x3c ./freertos/Source/tasks.o
+ .text.xTaskRemoveFromEventList
+                0x00000000       0xac ./freertos/Source/tasks.o
+ .text.vTaskRemoveFromUnorderedEventList
+                0x00000000       0x88 ./freertos/Source/tasks.o
+ .text.vTaskSetTimeOutState
+                0x00000000       0x30 ./freertos/Source/tasks.o
+ .text.vTaskInternalSetTimeOutState
+                0x00000000       0x2c ./freertos/Source/tasks.o
+ .text.xTaskCheckForTimeOut
+                0x00000000       0x84 ./freertos/Source/tasks.o
+ .text.vTaskMissedYield
+                0x00000000       0x18 ./freertos/Source/tasks.o
+ .text.vTaskSetThreadLocalStoragePointer
+                0x00000000       0x40 ./freertos/Source/tasks.o
+ .text.pvTaskGetThreadLocalStoragePointer
+                0x00000000       0x4c ./freertos/Source/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x30 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000      0xa8a ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x18 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x22 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x5e ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x5c ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x35 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x34 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x16 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000      0x10e ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x86 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x16 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x43 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x57 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x34 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x10 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x58 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000      0x182 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000      0x35c ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x22 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x16 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x35 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000      0x103 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x6a ./freertos/Source/tasks.o
+ .debug_macro   0x00000000      0x1df ./freertos/Source/tasks.o
+ .debug_macro   0x00000000      0x190 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000      0x15a ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0xc8 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x1c ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0x26 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000      0x3ca ./freertos/Source/tasks.o
+ .debug_macro   0x00000000       0xb5 ./freertos/Source/tasks.o
+ .debug_macro   0x00000000      0x120 ./freertos/Source/tasks.o
+ .text          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000      0x428 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x32 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x48 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x34 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-init.o)
+ .text          0x00000000      0x134 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000000       0x1c d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x00000000       0x14 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xcc d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .data.__atexit_recursive_mutex
+                0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x68 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-atexit.o)
+ .text.atexit   0x00000000        0xc d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x20 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x2c d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x34 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x34 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+ .debug_frame   0x00000000       0xb0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x34 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+ COMMON         0x00000000       0x21 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-lock.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0x8c d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x34 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x00000000       0x32 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x00000000        0x0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .init          0x00000000        0x8 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .fini          0x00000000        0x8 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .ARM.attributes
+                0x00000000       0x1e d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00080000         xr
+RAM              0x20000000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD ./src/main.o
+LOAD ./src/startup_stm32f303retx.o
+LOAD ./freertos/Source/portable/MemMang/heap_4.o
+LOAD ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+LOAD ./freertos/Source/portable/Common/mpu_wrappers.o
+LOAD ./freertos/Source/list.o
+LOAD ./freertos/Source/queue.o
+LOAD ./freertos/Source/tasks.o
+START GROUP
+LOAD d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a
+LOAD d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+END GROUP
+LOAD d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x20010000                _estack = 0x20010000
+                0x00000400                _min_leftover_ram = 0x400
+
+.vector_table   0x08000000      0x194
+                0x08000000                . = ALIGN (0x4)
+ *(.vector_table)
+ .vector_table  0x08000000      0x194 ./src/startup_stm32f303retx.o
+                0x08000000                g_pfnVectors
+                0x08000194                . = ALIGN (0x4)
+
+.text           0x08000194     0x11ec
+                0x08000194                . = ALIGN (0x4)
+ *(.text)
+ *(.text*)
+ .text.NVIC_SetPriority
+                0x08000194       0x54 ./src/main.o
+ .text.SysTick_Config
+                0x080001e8       0x44 ./src/main.o
+ .text.led1_task
+                0x0800022c       0x3c ./src/main.o
+ .text.main     0x08000268       0x50 ./src/main.o
+                0x08000268                main
+ .text.setupHardware
+                0x080002b8      0x198 ./src/main.o
+                0x080002b8                setupHardware
+ .text.SysTick_Handler
+                0x08000450       0x40 ./src/main.o
+                0x08000450                SysTick_Handler
+ .text.reset_handler
+                0x08000490       0x48 ./src/startup_stm32f303retx.o
+                0x08000490                reset_handler
+ .text.Default_Handler
+                0x080004d8        0x2 ./src/startup_stm32f303retx.o
+                0x080004d8                RTC_Alarm_IRQHandler
+                0x080004d8                TIM8_TRG_COM_IRQHandler
+                0x080004d8                TIM8_CC_IRQHandler
+                0x080004d8                DebugMon_Handler
+                0x080004d8                SPI4_IRQHandler
+                0x080004d8                TIM1_CC_IRQHandler
+                0x080004d8                HardFault_Handler
+                0x080004d8                USB_HP_IRQHandler
+                0x080004d8                PVD_IRQHandler
+                0x080004d8                TAMP_STAMP_IRQHandler
+                0x080004d8                PendSV_Handler
+                0x080004d8                NMI_Handler
+                0x080004d8                EXTI3_IRQHandler
+                0x080004d8                I2C3_ER_IRQHandler
+                0x080004d8                USB_HP_CAN_TX_IRQHandler
+                0x080004d8                EXTI0_IRQHandler
+                0x080004d8                I2C2_EV_IRQHandler
+                0x080004d8                FPU_IRQHandler
+                0x080004d8                TIM1_UP_TIM16_IRQHandler
+                0x080004d8                UsageFault_Handler
+                0x080004d8                ADC1_2_IRQHandler
+                0x080004d8                SPI1_IRQHandler
+                0x080004d8                CAN_SCE_IRQHandler
+                0x080004d8                TIM6_DAC_IRQHandler
+                0x080004d8                TIM8_UP_IRQHandler
+                0x080004d8                DMA2_Channel2_IRQHandler
+                0x080004d8                DMA1_Channel4_IRQHandler
+                0x080004d8                TIM20_TRG_COM_IRQHandler
+                0x080004d8                USART3_IRQHandler
+                0x080004d8                DMA1_Channel7_IRQHandler
+                0x080004d8                UART5_IRQHandler
+                0x080004d8                ADC3_IRQHandler
+                0x080004d8                TIM4_IRQHandler
+                0x080004d8                CAN_RX1_IRQHandler
+                0x080004d8                DMA2_Channel1_IRQHandler
+                0x080004d8                I2C1_EV_IRQHandler
+                0x080004d8                DMA1_Channel6_IRQHandler
+                0x080004d8                UART4_IRQHandler
+                0x080004d8                DMA2_Channel4_IRQHandler
+                0x080004d8                TIM3_IRQHandler
+                0x080004d8                RCC_IRQHandler
+                0x080004d8                TIM20_UP_IRQHandler
+                0x080004d8                DMA1_Channel1_IRQHandler
+                0x080004d8                Default_Handler
+                0x080004d8                USBWakeUp_RMP_IRQHandler
+                0x080004d8                EXTI15_10_IRQHandler
+                0x080004d8                TIM7_IRQHandler
+                0x080004d8                I2C3_EV_IRQHandler
+                0x080004d8                EXTI9_5_IRQHandler
+                0x080004d8                RTC_WKUP_IRQHandler
+                0x080004d8                SPI2_IRQHandler
+                0x080004d8                USB_LP_CAN_RX0_IRQHandler
+                0x080004d8                MemManage_Handler
+                0x080004d8                SVC_Handler
+                0x080004d8                DMA2_Channel5_IRQHandler
+                0x080004d8                DMA1_Channel5_IRQHandler
+                0x080004d8                USB_LP_IRQHandler
+                0x080004d8                EXTI4_IRQHandler
+                0x080004d8                TIM1_TRG_COM_TIM17_IRQHandler
+                0x080004d8                DMA1_Channel3_IRQHandler
+                0x080004d8                ADC4_IRQHandler
+                0x080004d8                WWDG_IRQHandler
+                0x080004d8                TIM2_IRQHandler
+                0x080004d8                COMP7_IRQHandler
+                0x080004d8                COMP1_2_3_IRQHandler
+                0x080004d8                EXTI1_IRQHandler
+                0x080004d8                USART2_IRQHandler
+                0x080004d8                COMP4_5_6_IRQHandler
+                0x080004d8                TIM20_BRK_IRQHandler
+                0x080004d8                I2C2_ER_IRQHandler
+                0x080004d8                DMA1_Channel2_IRQHandler
+                0x080004d8                TIM8_BRK_IRQHandler
+                0x080004d8                FLASH_IRQHandler
+                0x080004d8                TIM20_CC_IRQHandler
+                0x080004d8                BusFault_Handler
+                0x080004d8                USART1_IRQHandler
+                0x080004d8                SPI3_IRQHandler
+                0x080004d8                I2C1_ER_IRQHandler
+                0x080004d8                FMC_IRQHandler
+                0x080004d8                USBWakeUp_IRQHandler
+                0x080004d8                DMA2_Channel3_IRQHandler
+                0x080004d8                EXTI2_TSC_IRQHandler
+                0x080004d8                TIM1_BRK_TIM15_IRQHandler
+ *fill*         0x080004da        0x2 
+ .text.pvPortMalloc
+                0x080004dc      0x15c ./freertos/Source/portable/MemMang/heap_4.o
+                0x080004dc                pvPortMalloc
+ .text.vPortFree
+                0x08000638       0x80 ./freertos/Source/portable/MemMang/heap_4.o
+                0x08000638                vPortFree
+ .text.prvHeapInit
+                0x080006b8       0xc4 ./freertos/Source/portable/MemMang/heap_4.o
+ .text.prvInsertBlockIntoFreeList
+                0x0800077c       0xb4 ./freertos/Source/portable/MemMang/heap_4.o
+ .text.pxPortInitialiseStack
+                0x08000830       0x68 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+                0x08000830                pxPortInitialiseStack
+ .text.prvTaskExitError
+                0x08000898       0x34 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .text.prvPortStartFirstTask
+                0x080008cc       0x2c ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .text.xPortStartScheduler
+                0x080008f8       0x54 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+                0x080008f8                xPortStartScheduler
+ .text.vPortEnterCritical
+                0x0800094c       0x34 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+                0x0800094c                vPortEnterCritical
+ .text.vPortExitCritical
+                0x08000980       0x34 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+                0x08000980                vPortExitCritical
+ .text.vPortSetupTimerInterrupt
+                0x080009b4       0x34 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+                0x080009b4                vPortSetupTimerInterrupt
+ .text.vPortEnableVFP
+                0x080009e8       0x18 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .text.vListInitialise
+                0x08000a00       0x40 ./freertos/Source/list.o
+                0x08000a00                vListInitialise
+ .text.vListInitialiseItem
+                0x08000a40       0x1a ./freertos/Source/list.o
+                0x08000a40                vListInitialiseItem
+ .text.vListInsertEnd
+                0x08000a5a       0x48 ./freertos/Source/list.o
+                0x08000a5a                vListInsertEnd
+ .text.vListInsert
+                0x08000aa2       0x72 ./freertos/Source/list.o
+                0x08000aa2                vListInsert
+ .text.uxListRemove
+                0x08000b14       0x54 ./freertos/Source/list.o
+                0x08000b14                uxListRemove
+ .text.xTaskCreate
+                0x08000b68       0x82 ./freertos/Source/tasks.o
+                0x08000b68                xTaskCreate
+ .text.prvInitialiseNewTask
+                0x08000bea       0xe6 ./freertos/Source/tasks.o
+ .text.prvAddNewTaskToReadyList
+                0x08000cd0       0xd8 ./freertos/Source/tasks.o
+ .text.vTaskDelay
+                0x08000da8       0x48 ./freertos/Source/tasks.o
+                0x08000da8                vTaskDelay
+ .text.vTaskStartScheduler
+                0x08000df0       0x78 ./freertos/Source/tasks.o
+                0x08000df0                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x08000e68       0x1c ./freertos/Source/tasks.o
+                0x08000e68                vTaskSuspendAll
+ .text.xTaskResumeAll
+                0x08000e84      0x11c ./freertos/Source/tasks.o
+                0x08000e84                xTaskResumeAll
+ .text.xTaskIncrementTick
+                0x08000fa0      0x134 ./freertos/Source/tasks.o
+                0x08000fa0                xTaskIncrementTick
+ .text.vTaskSwitchContext
+                0x080010d4       0xa0 ./freertos/Source/tasks.o
+                0x080010d4                vTaskSwitchContext
+ .text.prvIdleTask
+                0x08001174       0x30 ./freertos/Source/tasks.o
+ .text.prvInitialiseTaskLists
+                0x080011a4       0x6c ./freertos/Source/tasks.o
+ .text.prvCheckTasksWaitingTermination
+                0x08001210        0xe ./freertos/Source/tasks.o
+ *fill*         0x0800121e        0x2 
+ .text.prvResetNextTaskUnblockTime
+                0x08001220       0x38 ./freertos/Source/tasks.o
+ .text.prvAddCurrentTaskToDelayedList
+                0x08001258       0x88 ./freertos/Source/tasks.o
+ .text.memset   0x080012e0       0xa0 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+                0x080012e0                memset
+                0x08001380                . = ALIGN (0x4)
+
+.glue_7         0x08001380        0x0
+ .glue_7        0x08001380        0x0 linker stubs
+
+.glue_7t        0x08001380        0x0
+ .glue_7t       0x08001380        0x0 linker stubs
+
+.vfp11_veneer   0x08001380        0x0
+ .vfp11_veneer  0x08001380        0x0 linker stubs
+
+.v4_bx          0x08001380        0x0
+ .v4_bx         0x08001380        0x0 linker stubs
+
+.init           0x08001380        0x4
+ .init          0x08001380        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08001380                _init
+
+.fini           0x08001384        0x4
+ .fini          0x08001384        0x4 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08001384                _fini
+
+.iplt           0x08001388        0x0
+ .iplt          0x08001388        0x0 ./src/main.o
+
+.rodata         0x08001388       0x20
+                0x08001388                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08001388       0x18 ./src/main.o
+ .rodata        0x080013a0        0x5 ./freertos/Source/tasks.o
+ *(.rodata*)
+                0x080013a8                . = ALIGN (0x4)
+ *fill*         0x080013a5        0x3 
+                0x080013a8                _sidata = .
+
+.rel.dyn        0x080013a8        0x0
+ .rel.iplt      0x080013a8        0x0 ./src/main.o
+
+.data           0x20000000        0x8 load address 0x080013a8
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.uxCriticalNesting
+                0x20000000        0x4 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .data.uxTopUsedPriority
+                0x20000004        0x4 ./freertos/Source/tasks.o
+                0x20000004                uxTopUsedPriority
+                0x20000008                _edata = .
+                0x20000008                . = ALIGN (0x4)
+
+.igot.plt       0x20000008        0x0 load address 0x080013b0
+ .igot.plt      0x20000008        0x0 ./src/main.o
+
+.bss            0x20000008     0x8104 load address 0x080013b0
+                0x20000008                . = ALIGN (0x4)
+                0x20000008                _sbss = .
+ *(.bss)
+ *(.bss*)
+ .bss.ucHeap    0x20000008     0x8000 ./freertos/Source/portable/MemMang/heap_4.o
+ .bss.xStart    0x20008008        0x8 ./freertos/Source/portable/MemMang/heap_4.o
+ .bss.pxEnd     0x20008010        0x4 ./freertos/Source/portable/MemMang/heap_4.o
+ .bss.xFreeBytesRemaining
+                0x20008014        0x4 ./freertos/Source/portable/MemMang/heap_4.o
+ .bss.xMinimumEverFreeBytesRemaining
+                0x20008018        0x4 ./freertos/Source/portable/MemMang/heap_4.o
+ .bss.xNumberOfSuccessfulAllocations
+                0x2000801c        0x4 ./freertos/Source/portable/MemMang/heap_4.o
+ .bss.xNumberOfSuccessfulFrees
+                0x20008020        0x4 ./freertos/Source/portable/MemMang/heap_4.o
+ .bss.xBlockAllocatedBit
+                0x20008024        0x4 ./freertos/Source/portable/MemMang/heap_4.o
+ .bss.pxCurrentTCB
+                0x20008028        0x4 ./freertos/Source/tasks.o
+                0x20008028                pxCurrentTCB
+ .bss.pxReadyTasksLists
+                0x2000802c       0x64 ./freertos/Source/tasks.o
+ .bss.xDelayedTaskList1
+                0x20008090       0x14 ./freertos/Source/tasks.o
+ .bss.xDelayedTaskList2
+                0x200080a4       0x14 ./freertos/Source/tasks.o
+ .bss.pxDelayedTaskList
+                0x200080b8        0x4 ./freertos/Source/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x200080bc        0x4 ./freertos/Source/tasks.o
+ .bss.xPendingReadyList
+                0x200080c0       0x14 ./freertos/Source/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x200080d4        0x4 ./freertos/Source/tasks.o
+ .bss.xTickCount
+                0x200080d8        0x4 ./freertos/Source/tasks.o
+ .bss.uxTopReadyPriority
+                0x200080dc        0x4 ./freertos/Source/tasks.o
+ .bss.xSchedulerRunning
+                0x200080e0        0x4 ./freertos/Source/tasks.o
+ .bss.xPendedTicks
+                0x200080e4        0x4 ./freertos/Source/tasks.o
+ .bss.xYieldPending
+                0x200080e8        0x4 ./freertos/Source/tasks.o
+ .bss.xNumOfOverflows
+                0x200080ec        0x4 ./freertos/Source/tasks.o
+ .bss.uxTaskNumber
+                0x200080f0        0x4 ./freertos/Source/tasks.o
+ .bss.xNextTaskUnblockTime
+                0x200080f4        0x4 ./freertos/Source/tasks.o
+ .bss.xIdleTaskHandle
+                0x200080f8        0x4 ./freertos/Source/tasks.o
+ .bss.uxSchedulerSuspended
+                0x200080fc        0x4 ./freertos/Source/tasks.o
+ *(COMMON)
+ COMMON         0x20008100        0xc ./src/main.o
+                0x20008100                SystemCoreClock
+                0x20008104                sysTickCounter
+                0x20008108                core_clock_hz
+                0x2000810c                . = ALIGN (0x4)
+                0x2000810c                _ebss = .
+
+.dynamic_allocations
+                0x2000810c      0x400 load address 0x080094b4
+                0x2000810c                . = ALIGN (0x4)
+                0x2000810c                _ssystem_ram = .
+                0x2000850c                . = (. + _min_leftover_ram)
+ *fill*         0x2000810c      0x400 
+                0x2000850c                . = ALIGN (0x4)
+                0x2000850c                _esystem_ram = .
+OUTPUT(stm32f303re-freertos-demo-1.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x1e d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x0000001e       0x34 ./src/main.o
+ .ARM.attributes
+                0x00000052       0x21 ./src/startup_stm32f303retx.o
+ .ARM.attributes
+                0x00000073       0x34 ./freertos/Source/portable/MemMang/heap_4.o
+ .ARM.attributes
+                0x000000a7       0x34 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .ARM.attributes
+                0x000000db       0x34 ./freertos/Source/list.o
+ .ARM.attributes
+                0x0000010f       0x34 ./freertos/Source/tasks.o
+ .ARM.attributes
+                0x00000143       0x34 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
+
+.comment        0x00000000       0x4c
+ .comment       0x00000000       0x4c ./src/main.o
+                                 0x4d (size before relaxing)
+ .comment       0x0000004c       0x4d ./freertos/Source/portable/MemMang/heap_4.o
+ .comment       0x0000004c       0x4d ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .comment       0x0000004c       0x4d ./freertos/Source/list.o
+ .comment       0x0000004c       0x4d ./freertos/Source/tasks.o
+
+.debug_info     0x00000000     0x3aeb
+ .debug_info    0x00000000      0x9d0 ./src/main.o
+ .debug_info    0x000009d0       0x22 ./src/startup_stm32f303retx.o
+ .debug_info    0x000009f2      0xcc5 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_info    0x000016b7      0x2e2 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_info    0x00001999      0xb63 ./freertos/Source/list.o
+ .debug_info    0x000024fc     0x15ef ./freertos/Source/tasks.o
+
+.debug_abbrev   0x00000000      0xbe2
+ .debug_abbrev  0x00000000      0x21b ./src/main.o
+ .debug_abbrev  0x0000021b       0x12 ./src/startup_stm32f303retx.o
+ .debug_abbrev  0x0000022d      0x29c ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_abbrev  0x000004c9      0x1e6 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_abbrev  0x000006af      0x222 ./freertos/Source/list.o
+ .debug_abbrev  0x000008d1      0x311 ./freertos/Source/tasks.o
+
+.debug_aranges  0x00000000      0x298
+ .debug_aranges
+                0x00000000       0x50 ./src/main.o
+ .debug_aranges
+                0x00000050       0x28 ./src/startup_stm32f303retx.o
+ .debug_aranges
+                0x00000078       0x58 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_aranges
+                0x000000d0       0x78 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_aranges
+                0x00000148       0x40 ./freertos/Source/list.o
+ .debug_aranges
+                0x00000188      0x110 ./freertos/Source/tasks.o
+
+.debug_ranges   0x00000000      0x240
+ .debug_ranges  0x00000000       0x40 ./src/main.o
+ .debug_ranges  0x00000040       0x20 ./src/startup_stm32f303retx.o
+ .debug_ranges  0x00000060       0x48 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_ranges  0x000000a8       0x68 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_ranges  0x00000110       0x30 ./freertos/Source/list.o
+ .debug_ranges  0x00000140      0x100 ./freertos/Source/tasks.o
+
+.debug_macro    0x00000000    0x18e72
+ .debug_macro   0x00000000      0x131 ./src/main.o
+ .debug_macro   0x00000131      0xa8a ./src/main.o
+ .debug_macro   0x00000bbb       0x22 ./src/main.o
+ .debug_macro   0x00000bdd       0x56 ./src/main.o
+ .debug_macro   0x00000c33       0x51 ./src/main.o
+ .debug_macro   0x00000c84      0x103 ./src/main.o
+ .debug_macro   0x00000d87       0x6a ./src/main.o
+ .debug_macro   0x00000df1      0x1df ./src/main.o
+ .debug_macro   0x00000fd0       0x28 ./src/main.o
+ .debug_macro   0x00000ff8       0x3b ./src/main.o
+ .debug_macro   0x00001033       0x50 ./src/main.o
+ .debug_macro   0x00001083      0xe66 ./src/main.o
+ .debug_macro   0x00001ee9    0x15376 ./src/main.o
+ .debug_macro   0x0001725f       0x52 ./src/main.o
+ .debug_macro   0x000172b1      0x190 ./src/main.o
+ .debug_macro   0x00017441      0x16d ./src/main.o
+ .debug_macro   0x000175ae      0x15a ./src/main.o
+ .debug_macro   0x00017708       0xc8 ./src/main.o
+ .debug_macro   0x000177d0       0x1c ./src/main.o
+ .debug_macro   0x000177ec       0x26 ./src/main.o
+ .debug_macro   0x00017812      0x3ca ./src/main.o
+ .debug_macro   0x00017bdc       0xb5 ./src/main.o
+ .debug_macro   0x00017c91      0x120 ./src/main.o
+ .debug_macro   0x00017db1      0x196 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00017f47       0x18 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00017f5f       0x5e ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00017fbd       0x5c ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00018019       0x35 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x0001804e       0x34 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00018082       0x16 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00018098      0x10e ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x000181a6       0x86 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x0001822c       0x16 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00018242       0x43 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00018285       0x57 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x000182dc       0x34 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00018310       0x10 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00018320       0x58 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00018378      0x182 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x000184fa      0x35c ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00018856       0x22 ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_macro   0x00018878      0x190 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00018a08      0x17b ./freertos/Source/list.o
+ .debug_macro   0x00018b83      0x24e ./freertos/Source/tasks.o
+ .debug_macro   0x00018dd1       0x91 ./freertos/Source/tasks.o
+ .debug_macro   0x00018e62       0x10 ./freertos/Source/tasks.o
+
+.debug_line     0x00000000     0x2514
+ .debug_line    0x00000000      0x659 ./src/main.o
+ .debug_line    0x00000659       0x7a ./src/startup_stm32f303retx.o
+ .debug_line    0x000006d3      0x73d ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_line    0x00000e10      0x5e0 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_line    0x000013f0      0x565 ./freertos/Source/list.o
+ .debug_line    0x00001955      0xbbf ./freertos/Source/tasks.o
+
+.debug_str      0x00000000    0x898aa
+ .debug_str     0x00000000    0x84a25 ./src/main.o
+                              0x84d58 (size before relaxing)
+ .debug_str     0x00084a25       0x2d ./src/startup_stm32f303retx.o
+                                 0x7c (size before relaxing)
+ .debug_str     0x00084a52     0x3036 ./freertos/Source/portable/MemMang/heap_4.o
+                               0xb64a (size before relaxing)
+ .debug_str     0x00087a88      0x763 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+                               0x8d47 (size before relaxing)
+ .debug_str     0x000881eb      0x12c ./freertos/Source/list.o
+                               0xa1ef (size before relaxing)
+ .debug_str     0x00088317     0x1593 ./freertos/Source/tasks.o
+                               0xc9cb (size before relaxing)
+
+.debug_frame    0x00000000      0x918
+ .debug_frame   0x00000000       0xf8 ./src/main.o
+ .debug_frame   0x000000f8      0x12c ./freertos/Source/portable/MemMang/heap_4.o
+ .debug_frame   0x00000224      0x170 ./freertos/Source/portable/GCC/ARM_CM4F/port.o
+ .debug_frame   0x00000394       0xd8 ./freertos/Source/list.o
+ .debug_frame   0x0000046c      0x474 ./freertos/Source/tasks.o
+ .debug_frame   0x000008e0       0x38 d:/program files (x86)/gnu arm embedded toolchain/9 2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a(lib_a-memset.o)
